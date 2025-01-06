@@ -4,9 +4,11 @@ to create notes using terminals
 
 ### instructions
 
-1. add both auto_push_notes.sh and create_notes.sh into your script folder. If you don't have one, create one.
+create a directory called notes in your /home/notes/
 
-2. In your terminal
+add both auto_push_notes.sh and create_notes.sh into your script folder. If you don't have one, create one.
+
+In your terminal
 
 > crontab -e
 
@@ -16,7 +18,7 @@ It will open up your editor and enter the following line
 
 Save and exit
 
-3. In your terminal, you will need to create an alias of your choice. 
+In your terminal, you will need to create an alias of your choice. 
 
 #### Example
 
