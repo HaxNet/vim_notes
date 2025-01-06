@@ -4,7 +4,7 @@ to create notes using terminals
 
 ### instructions
 
-First, in your own personal github, create a repo called notes. Make it *PERSONAL*
+First, in your own personal github, create a repo called notes. Make it **PERSONAL**
 Second, gh repo clone your repo in your home directory. so you will have something like this /home/user/notes. 
 
 add both auto_push_notes.sh and create_notes.sh into your script folder. If you don't have one, create one.
