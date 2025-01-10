@@ -33,3 +33,7 @@ The current script is
 > filename="notes_${timestamp}.txt"
 
 You can change the notes in the filename  to your liking.
+
+Forgot to mention that this will also auto push if you delete a file in the directory and you forgot to do the git rm function. If you just "rm" the file, this will work.
+
+
